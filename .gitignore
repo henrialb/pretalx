@@ -136,3 +136,6 @@ override_settings.py
 
 # Screenshots
 screens/
+
+# Docker
+docker-compose.yml
